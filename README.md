@@ -1,1 +1,1 @@
-# Automated-EDA-Project
+#Automated-Data-Analysis-System
